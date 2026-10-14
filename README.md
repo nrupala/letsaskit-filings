@@ -32,6 +32,21 @@ Team-tier reviewer key, named for that listing, on request via
 info@aimlds.org. Public no-auth checks: `/health` and
 `/.well-known/letsaskit.json` above.
 
+## Client config
+
+Any MCP client that supports remote streamable-HTTP servers (Cline included):
+
+```json
+{
+  "mcpServers": {
+    "letsaskit": {
+      "url": "https://letsaskit.com/mcp",
+      "headers": { "Authorization": "Bearer <YOUR_LETSASKIT_TEAM_KEY>" }
+    }
+  }
+}
+```
+
 ## Tools (5)
 
 | Tool | What it does |
