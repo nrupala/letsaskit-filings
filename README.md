@@ -57,7 +57,7 @@ Any MCP client that supports remote streamable-HTTP servers (Cline included):
 | `list_voice_profiles` | List saved brand voice profiles (id, name, sample count) |
 | `get_job_status` | Poll a creation job → the finished pack when done |
 
-## Tiers (Paddle, merchant of record)
+## Tiers (Stripe; seller of record: 2351485 ALBERTA INC.)
 
 | Tier | Price | Jobs/mo | Voice profiles | REST | MCP |
 |---|---|---|---|---|---|
@@ -75,6 +75,4 @@ the daily neuron budget it answers `429` (resets 00:00 UTC).
 - Privacy: https://letsaskit.com/privacy/
 - Terms: https://letsaskit.com/terms/
 
-Conceived by [Nrupal Akolkar](https://nrupalakolkar.com) · Built by
-[Muse](https://muse.ai/join) — join Muse, then redeem code **101EEK** in
-Settings within 48 hours of joining and we both earn tokens.
+Conceived by [Nrupal Akolkar](https://nrupalakolkar.com) · Operated by **2351485 ALBERTA INC. (AIMLDS)**, Calgary, Alberta, Canada.
