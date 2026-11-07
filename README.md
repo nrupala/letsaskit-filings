@@ -76,5 +76,4 @@ the daily neuron budget it answers `429` (resets 00:00 UTC).
 - Terms: https://letsaskit.com/terms/
 
 Conceived by [Nrupal Akolkar](https://nrupalakolkar.com) · Built by
-[Muse](https://muse.ai/join) — join Muse, then redeem code **101EEK** in
-Settings within 48 hours of joining and we both earn tokens.
+[Muse](https://muse.ai/join).
