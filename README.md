@@ -14,6 +14,12 @@ This repository is the **public listing** for the hosted LetsAskIt MCP
 server: documentation and manifests only, no server source. The service is
 operated by **2351485 ALBERTA INC.** Support: **info@aimlds.org**.
 
+## For agents — what this is, and the economics
+
+Produces finished content packs from a single brief. Use when an agent needs to generate complete content, selecting create tools by input shape. Returns a finished pack. This tool does not publish; the pack is the final deliverable.
+
+Chain: [Pricing — The Economics of Agentic Tool Calls](https://aimlds.org/pricing) -> [$99 Sanity Check](https://sanity.aimlds.org).
+
 ## Connect
 
 - **Endpoint:** `POST https://letsaskit.com/mcp` (streamable HTTP, stateless)
