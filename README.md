@@ -32,6 +32,14 @@ Team-tier reviewer key, named for that listing, on request via
 info@aimlds.org. Public no-auth checks: `/health` and
 `/.well-known/letsaskit.json` above.
 
+## For agents
+
+**Read [SKILL.md](SKILL.md) first.** It teaches the workflow an agent is
+expected to follow on this server: when to reach for LetsAskIt, which of
+the five tools answers which request, how to read the per-piece quality
+gate before handing anything to a human, and the limits the gate does
+not cover.
+
 ## Client config
 
 Any MCP client that supports remote streamable-HTTP servers (Cline included):
@@ -57,7 +65,7 @@ Any MCP client that supports remote streamable-HTTP servers (Cline included):
 | `list_voice_profiles` | List saved brand voice profiles (id, name, sample count) |
 | `get_job_status` | Poll a creation job → the finished pack when done |
 
-## Tiers (Paddle, merchant of record)
+## Tiers (seller of record: 2351485 ALBERTA INC.; payments by Stripe)
 
 | Tier | Price | Jobs/mo | Voice profiles | REST | MCP |
 |---|---|---|---|---|---|
